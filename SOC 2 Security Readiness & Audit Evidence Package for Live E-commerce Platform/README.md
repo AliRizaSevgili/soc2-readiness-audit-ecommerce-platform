@@ -6,7 +6,7 @@
 
 ## 1. Project Objective
 
-This project evaluates the SOC 2 Security (Trust Services Criteria) readiness of a sample e-commerce platform. The assessment focuses on identifying control gaps, mapping existing practices to SOC 2 Common Criteria (CC), and determining whether the system would pass a SOC 2 audit.
+This project evaluates the SOC 2 Security (Trust Services Criteria) readiness of a sample e-commerce platform for heartpotterystudios.com. The assessment focuses on identifying control gaps, mapping existing practices to SOC 2 Common Criteria (CC), and determining whether the system would pass a SOC 2 audit.
 
 The objective is to simulate an audit-ready environment by assessing control effectiveness, documenting deficiencies, and preparing structured audit evidence.
 
