@@ -1,4 +1,4 @@
-SOC 2 Security Readiness & Audit Evidence Package
+###  SOC 2 Security Readiness & Audit Evidence Package
 For a Sample E-commerce Platform
 
 This project is part of an end-to-end IT Risk and SOC 2 audit simulation, focusing on control testing, audit evidence, and readiness assessment for real-world audit scenarios.
